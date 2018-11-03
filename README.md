@@ -1,6 +1,8 @@
 # awstalks
 talks I gotta watch
 
+Fargate Walkthrough
+https://www.youtube.com/watch?v=wrZvlJlcZio
 
 Introduction to Amazon CloudFront and AWS Lambda@Edge 
 
